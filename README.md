@@ -14,7 +14,7 @@ HTML5
 CSS3
 
 ## How to view
-Click here to view the project: [View Website]
+Click here to view the project: [View Website] https://priyabaskaran-11b.github.io/Udemy-clone-website/
 
 ## Purpose
 
